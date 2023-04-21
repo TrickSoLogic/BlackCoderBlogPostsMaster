@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q1euIWV1UYYElFNzrUfHXJq0T2Y+4Sm6aC2KiWK/WUVK634GFAuhKlnbGDcR9pV9V43EqkVRioYJxD6ouxF2XA==",
+  "dgSpecHash": "qbzA+zzWH+K2EYZmirHPZMT0QKXXpKIkgnVV+b1MVvhbDUQFovHiqeU8rVKmiWeeWgMyDohN3WWoyO5/hyzHTw==",
   "success": true,
-  "projectFilePath": "D:\\ASP.net-CORE_MVC\\GIT\\1Should Modify first then upload\\1New GIT Upload List proj\\EFGetStarted\\BlackCoderBlogPostsMaster.csproj",
+  "projectFilePath": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\BlackCoderBlogMaintain\\BlackCoderBlogPostsMaster.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\visha\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\visha\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
